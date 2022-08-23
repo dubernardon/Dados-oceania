@@ -1,13 +1,13 @@
 paises,medicos,crescimento,densidade,mortalidade,nascimento
-Austrália,4,1,3,7,12
+Australia,4,1,3,7,12
 Fiji,1,0,51,6,17
-Ilhas Salomão,0,2,24,4,24
+Ilhas Salomao,0,2,24,4,24
 Nauru,1,0,466,6,22
-Nova Caledónia,2,1,16,6,14
-Nova Zelândia,3,1,18,7,13
+Nova Caledonia,2,1,16,6,14
+Nova Zelandia,3,1,18,7,13
 Palau,1,0,47,8,11
-Papua-Nova Guiné,0,2,16,7,22
-Quiribáti,0,1,138,7,20
+PapuaNovaGuine,0,2,16,7,22
+Quiribati,0,1,138,7,20
 Samoa,0,1,72,5,20
 Tonga,1,0,142,5,21
 Tuvalu,1,1,436,8,23
